@@ -49,3 +49,5 @@
 * [24.SQLite-事务（Transaction）](https://github.com/SingleDiego/SQLite3-Notes/blob/main/docs/24.SQLite-%E4%BA%8B%E5%8A%A1%EF%BC%88Transaction%EF%BC%89.md)
 
 * [25.SQLite-常用函数](https://github.com/SingleDiego/SQLite3-Notes/blob/main/docs/25.SQLite-%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0.md)
+
+* [26.CASE-子句](https://github.com/SingleDiego/SQLite3-Notes/blob/main/docs/26.CASE-%E5%AD%90%E5%8F%A5.md)

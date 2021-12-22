@@ -51,3 +51,5 @@
 * [25.SQLite-常用函数](https://github.com/SingleDiego/SQLite3-Notes/blob/main/docs/25.SQLite-%E5%B8%B8%E7%94%A8%E5%87%BD%E6%95%B0.md)
 
 * [26.CASE-子句](https://github.com/SingleDiego/SQLite3-Notes/blob/main/docs/26.CASE-%E5%AD%90%E5%8F%A5.md)
+
+* [27.SQLite 字段重命名](https://github.com/SingleDiego/SQLite3-Notes/blob/main/docs/27.SQLite%20%E5%AD%97%E6%AE%B5%E9%87%8D%E5%91%BD%E5%90%8D.md)
